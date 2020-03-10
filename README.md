@@ -9,8 +9,8 @@ A barebones React app for use as a template.
 
 ## Dependencies 
 
-Parcel, React, ReactDOM, autoprefixer, styled-components.
+Parcel, React, ReactDOM
 
 ## Misc 
 
-```npx babel-upgrade``` necessary for the latest Babel version to work.
+```npx babel-upgrade``` may be necessary for the latest Babel version to work (2019)

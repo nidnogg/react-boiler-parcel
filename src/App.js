@@ -1,5 +1,5 @@
-import React, {Component} from 'react';
-import './css/App.css'
+import React, { useState, useEffect, useRef } from 'react';
+import './css/App.css';
 
 const App = () => {
   return (
